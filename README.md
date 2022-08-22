@@ -14,3 +14,9 @@ Today I learned and practiced on below topics :
 Work-Report 19th August 2022
 
 •	Performed QA testing on (Ningbo) project.
+
+Work-Report 19th August 2022
+
+•	Performed QA testing on (Ningbo) project.
+
+
