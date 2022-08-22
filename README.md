@@ -15,7 +15,7 @@ Work-Report 19th August 2022
 
 •	Performed QA testing on (Ningbo) project.
 
-Work-Report 19th August 2022
+Work-Report 22nd August 2022
 
 •	Performed QA testing on (Ningbo) project.
 
