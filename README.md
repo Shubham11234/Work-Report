@@ -19,4 +19,9 @@ Work-Report 22nd August 2022
 
 •	Performed QA testing on (Ningbo) project.
 
+Work-Report 23rd August 2022
+
+•	Performed QA testing on (Ningbo) project.
+•	Performed QA testing on (Manica) project.
+
 
