@@ -35,4 +35,16 @@ Today I learned and practiced on below topics :
 •	Performed QA testing on (Ningbo) project.
 
 
+Work Report - 25th August 2022
+Today I learned and practiced on below topics :
+
+•	Performed QA testing on (Manica) project.
+•	Wordpress – How to use woocommerce plugin.
+•	Wordpress – Install woocommerce plugin.
+•	Wordpress -Set up of woocommerce plugin.
+•	Wordpress -Settings introduction.
+•	Wordpress – Add products in woocommerce.
+•	Wordpress – Started to create a woocommerce template.
+
+
 
