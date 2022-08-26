@@ -46,5 +46,17 @@ Today I learned and practiced on below topics :
 •	Wordpress – Add products in woocommerce.
 •	Wordpress – Started to create a woocommerce template.
 
+Work Report - 26th August 2022
+Today I learned and practiced on below topics :
+
+•	Wordpress – Add Simple Product in woocommerce.
+•	Wordpress – Add Grouped product in woocommerce.
+•	Wordpress – Add product category in woocommerce.
+•	Wordpress – Add product filter in woocommerce.
+•	Wordpress – Add variable product in woocommerce.
+•	Wordpress – How to set tax rates in woocommerce.
+•	Wordpress – Practiced all woocommerce widgets.
+
+
 
 
