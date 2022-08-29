@@ -57,6 +57,19 @@ Today I learned and practiced on below topics :
 •	Wordpress – How to set tax rates in woocommerce.
 •	Wordpress – Practiced all woocommerce widgets.
 
+Work Report - 29th August 2022
+Today I learned and practiced on below topics :
+
+•	Performed QA testing on (Manica) project.
+•	Performed QA testing on (Ningbo) project.
+•	Performed QA testing on (Boatique) project.
+•	Wordpress – How to setup shipping options in woocommerce.
+•	Wordpress –How to create coupons in woocommerce.
+•	Wordpress – How to add a variable product in woocommerce (Different sizes and images).
+•	Wordpress – How to creater woocommerce cart page.
+•	Wordpress- Practiced widgets of wordpress.
+
+
 
 
 
