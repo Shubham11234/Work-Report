@@ -69,6 +69,16 @@ Today I learned and practiced on below topics :
 •	Wordpress – How to creater woocommerce cart page.
 •	Wordpress- Practiced widgets of wordpress.
 
+Work Report - 30th August 2022
+Today I learned and practiced on below topics :
+
+•	Performed QA testing on (Ningbo) project.
+•	Wordpress –  How to create checkout page in woocommerce.
+•	Wordpress –  How to add Cash On Delivery (COD) payment mode in woocommerce.
+•	Wordpress –  How to add Razorpay Payment Gateway in woocommerce.
+•	Wordpress- Post Types and how to create customs  post types in wordpress.
+•	Wordpress- Practiced widgets of wordpress.
+
 
 
 
