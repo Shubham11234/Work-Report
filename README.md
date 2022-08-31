@@ -79,6 +79,17 @@ Today I learned and practiced on below topics :
 •	Wordpress- Post Types and how to create customs  post types in wordpress.
 •	Wordpress- Practiced widgets of wordpress.
 
+Work Report – 31st August 2022
+Today I learned and practiced on below topics :
+
+•	Performed QA testing on (Manica) project.
+•	Wordpress –  How to increase maximum execution time in wordpress website.
+•	Wordpress –  How to add Google Translate in wordpress.
+•	Wordpress –  How to add Google Map in wordpress.
+•	Wordpress- How to add Preloader in wordpress.
+•	Wordpress – How to remove Sidebar in wordpress.
+•	Wordpress- Practiced widgets of wordpress.
+
 
 
 
