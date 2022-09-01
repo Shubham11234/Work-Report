@@ -90,6 +90,18 @@ Today I learned and practiced on below topics :
 •	Wordpress – How to remove Sidebar in wordpress.
 •	Wordpress- Practiced widgets of wordpress.
 
+Work Report – 1st September 2022
+Today I learned and practiced on below topics :
+
+•	Performed QA testing on (Ningbo) project.
+•	Performed QA testing on (Blackwater Eco Tours) project.
+•	Wordpress –  Check attributes of “General Setting” label of Woocommerce.
+•	Wordpress –  Check attributes of “Products” label of Woocommerce.
+•	Wordpress –  Check attributes of “Tax” label of Woocommerce.
+•	Wordpress-    Check attributes of “Shipping” label of Woocommerce.
+•	Wordpress –  Check attributes of “Payments” of Woocommerce.
+•	Wordpress –  Check attributes of “Accounts and Privacy” of Woocommerce.
+•	Wordpress- Practiced widgets of wordpress.
 
 
 
