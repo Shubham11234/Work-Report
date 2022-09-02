@@ -103,6 +103,18 @@ Today I learned and practiced on below topics :
 •	Wordpress –  Check attributes of “Accounts and Privacy” of Woocommerce.
 •	Wordpress- Practiced widgets of wordpress.
 
+Work Report – 2nd September 2022
+Today I learned and practiced on below topics :
+
+•	Wordpress –  Checked attributes of “Emails” label of Woocommerce.
+•	Wordpress –  Checked attributes of “Integration” label of Woocommerce.
+•	Wordpress –  Checked attributes of “Advanced” label of Woocommerce.
+•	Wordpress-    Checked attributes of “General” label of wordpress setting.
+•	Wordpress –  Checked attributes of “Writing” label of wordpress setting.
+•	Wordpress –  Checked attributes of “Reading” label of wordpress setting.
+•	Wordpress –  Checked attributes of “Discussion” label of wordpress setting.
+•	Wordpress- Practiced widgets of wordpress.
+
 
 
 
