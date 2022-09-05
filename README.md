@@ -115,6 +115,19 @@ Today I learned and practiced on below topics :
 •	Wordpress –  Checked attributes of “Discussion” label of wordpress setting.
 •	Wordpress- Practiced widgets of wordpress.
 
+Work Report – 5th September 2022
+Today I learned and practiced on below topics :
+
+•	Wordpress –  Checked attributes of “Media” label of wordpress setting.
+•	Wordpress –  Checked attributes of “Permalink” label of wordpress setting.
+•	Wordpress –  Checked attributes of “Privacy” label of wordpress setting.
+•	Wordpress-   Practiced various plugins of wordpress.
+•	Testing Tutorials (Testing , Types of Testing).
+•	Testing Tutorials – Postman “Post” Api Request.
+•	Testing Tutorials – Postman “Put” Api Request.
+•	Testing Tutorials – Postman “Patch” Api Request.
+•	Testing Tutorials – Postman “Delete” Api Request.
+
 
 
 
