@@ -128,6 +128,22 @@ Today I learned and practiced on below topics :
 •	Testing Tutorials – Postman “Patch” Api Request.
 •	Testing Tutorials – Postman “Delete” Api Request.
 
+Work Report – 6th September 2022
+Today I learned and practiced on below topics :
+
+•	Wordpress –  Easy Update Manager (Plugin).
+•	Wordpress –  How to Reset password from phpmyadmin.
+•	Wordpress –  How to disable comments in wordpress.(plugin - Disable Comments).
+•	Wordpress-  How to set FAQ section in website.(plugin - Accordian faq).
+•	Wordpress – How to add social share .(plugin - Any to any)
+•	Wordpress- How to change the wordpress admin username.
+•	Testing Tutorials – Postman collections.
+•	Testing Tutorials – Postman How to add a variable.
+•	Testing Tutorials – Postman How to refer a variable.
+•	Testing Tutorials – Postman Environment. .
+•	Testing Tutorials – Postman “Delete” Api Request.
+
+
 
 
 
