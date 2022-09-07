@@ -143,6 +143,17 @@ Today I learned and practiced on below topics :
 •	Testing Tutorials – Postman Environment. .
 •	Testing Tutorials – Postman “Delete” Api Request.
 
+Work Report – 7th September 2022
+Today I learned and practiced on below topics :
+
+•	Wordpress– How to change the footer copyright credits in wordpress.
+•	Wordpress– Types of users in wordpress and their role.
+•	Wordpress- How to add new users in wordpress. 
+•	Wordpress- How to add call button on wordpress.
+•	Wordpress- How to add scroll to top button in wordpress.
+•	Performed Testing on Robert Project.
+
+
 
 
 
