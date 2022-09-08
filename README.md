@@ -153,6 +153,17 @@ Today I learned and practiced on below topics :
 •	Wordpress- How to add scroll to top button in wordpress.
 •	Performed Testing on Robert Project.
 
+Work Report – 8th September 2022
+Today I learned and practiced on below topics :
+
+•	Wordpress –  How to add WhatsApp chat in wp. (plugin)
+•	Wordpress –  How to change wordpress login url.(plugin)
+•	Wordpress- How to add Bing Maps in wp.
+•	Wordpress – How to add Twitter feeds.
+•	Wordpress- How to add Recent tweets on wp.
+•	Performed Testing on Robert Project.
+
+
 
 
 
