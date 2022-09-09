@@ -163,6 +163,17 @@ Today I learned and practiced on below topics :
 •	Wordpress- How to add Recent tweets on wp.
 •	Performed Testing on Robert Project.
 
+Work Report – 9th September 2022
+Today I learned and practiced on below topics :
+
+•	Wordpress –  How to add facebook video in wp.
+•	Wordpress –  How to add youtube video to wp.
+•	Wordpress –  How to make a coming soon and maintainance page .
+•	Wordpress-  How to create duplicate page.
+•	Wordpress – How to create duplicate post.
+•	Wordpress- Add different text editor in wp. (Plugin - Classic Editor)
+•	Performed Testing on Robert Project.
+
 
 
 
