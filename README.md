@@ -174,6 +174,14 @@ Today I learned and practiced on below topics :
 •	Wordpress- Add different text editor in wp. (Plugin - Classic Editor)
 •	Performed Testing on Robert Project.
 
+Work Report – 12th September 2022
+Today I learned and practiced on below topics :
+
+•	Wordpress –  Did R&D on how to set different shipping prices for different range of prices.
+•	Wordpress –  Used plugin (Flexible Shipping) for different shipping prices.
+•	Wordpress -  Did R&D on how to set different shipping prices on Quantity Basis.
+•	Wordpress – Practiced plugins.
+•	Testing -  Performed Testing on Robert Project.
 
 
 
