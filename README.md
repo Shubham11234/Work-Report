@@ -183,6 +183,16 @@ Today I learned and practiced on below topics :
 •	Wordpress – Practiced plugins.
 •	Testing -  Performed Testing on Robert Project.
 
+Work Report – 13th September 2022
+Today I learned and practiced on below topics 
+
+•	Wordpress –  Set different shipping prices on basis on quantity of products.
+•	Wordpress –  Did R&D on how to manage the checkout page.
+•	Wordpress – How to add business phone number on the billing section of checkout page.
+•	Wordpress -  Studied about DOKAN plugin.
+•	Wordpress – Practiced plugins.
+•	Testing -  Performed Testing on Robert Project.
+•	Testing -  Performed Testing on Manica Project.
 
 
 
