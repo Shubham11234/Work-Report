@@ -204,7 +204,15 @@ Today I learned and practiced on below topics :
 •	Wordpress – Practiced different plugins and themes.
 •	Testing -  Performed Testing on Robert Project.
 
+Work Report – 15th September 2022
+Today I learned and practiced on below topics :
 
+•	Wordpress –  Practiced the multivendor plugin WCFM.
+•	Wordpress –  Practiced all the labels of the WCFM plugin. 
+•	Wordpress –  Differences in “Dokan” and “WCFM” multivendor plugin.
+•	Wordpress – Practiced different plugins and themes.
+•	Testing -  Performed Testing on Cathal Project.
+•	Testing -  Prepared Bug Sheet Of Cathal Project.
 
 
 
