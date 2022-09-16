@@ -214,5 +214,17 @@ Today I learned and practiced on below topics :
 •	Testing -  Performed Testing on Cathal Project.
 •	Testing -  Prepared Bug Sheet Of Cathal Project.
 
+Work Report – 16th September 2022
+Today I learned and practiced on below topics :
+
+•	Wordpress –  Practiced the Contact form 7 plugin. 
+•	Wordpress –  How to create form using Contact form 7.
+•	Wordpress –  How to add radio buttons using Contact form 7.
+•	Wordpress –  How to add quiz question , add files (photos, docs) using Contact form 7.
+•	Wordpress – Practiced WP Contact Form plugin.
+•	Wordpress – Practiced Attributes of WCFM multivendor plugin.
+•	Testing -  Performed Frontend UI, Frontend Functionality and Backend Testing on Cathal’s Project.
+
+
 
 
