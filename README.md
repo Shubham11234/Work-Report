@@ -225,6 +225,17 @@ Today I learned and practiced on below topics :
 •	Wordpress – Practiced Attributes of WCFM multivendor plugin.
 •	Testing -  Performed Frontend UI, Frontend Functionality and Backend Testing on Cathal’s Project.
 
+Work Report – 19th September 2022
+Today I learned and practiced on below topics :
+
+•	Wordpress –  Worked on Buddypress plugin. 
+•	Wordpress –  Practiced label “Extended Profiles” of buddypres.
+•	Wordpress – Practiced label “Account Setting” of buddypres .
+•	Wordpress –  Practiced label “Friend Connection” of buddypres
+•	Wordpress – Practiced label “Activity Streams” of buddypres.
+•	Wordpress – Practiced label “Notifications” of buddypres.
+•	Testing -  Performed Testing on Manica Project.
+•	Testing- Performed Testing on Cathal’s Project.
 
 
 
