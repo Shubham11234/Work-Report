@@ -237,5 +237,11 @@ Today I learned and practiced on below topics :
 •	Testing -  Performed Testing on Manica Project.
 •	Testing- Performed Testing on Cathal’s Project.
 
+Work Report – 20th September 2022
+
+•	Wordpress –  Started a project using elementor. 
+•	Testing -  Performed Testing on Ningbo Project.
+•	Testing- Performed Testing on Catherine’s Project.
+
 
 
