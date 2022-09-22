@@ -249,6 +249,12 @@ Work Report – 21st September 2022
 •	Testing -  Performed Testing on NIngbo Project.
 •	Testing- Performed Testing on Catherine’s Project.
 
+Work Report – 22nd September 2022
+
+•	Wordpress –  Working on a project using elementor. 
+•	Testing -Performed Testing on Manica Project.
+•	Testing- Performed Testing on Ningbo Project.
+•	Testing- Discuss UI bugs of Catherine Project with Designer.
 
 
 
