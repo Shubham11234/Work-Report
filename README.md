@@ -269,3 +269,10 @@ Work Report – 26th September 2022
 •	Testing- Performed Retesting on Manica Project.
 •	Testing- Performed UI and functionality Testing on Catherine Project.
 •	Testing- Performed UI and functionality Testing on Cathal’s Project.
+
+Work Report – 27th September 2022
+
+•	Wordpress –  Working on a project using elementor. 
+•	Testing- Performed UI Testing on Golfer Project.
+•	Testing- Performed functionality Testing on Golfer Project.
+
