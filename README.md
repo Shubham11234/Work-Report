@@ -282,4 +282,11 @@ Work Report – 28th September 2022
 •	Testing- Performed testing ON “ROBERT” project and get all the UI and Developer bugs fixed.
 •	Testing- Performed Testing on “CATHAL” Project.
 
+Work Report – 29th September 2022
+
+•	Wordpress –  Working on a project using elementor. 
+•	Testing- Performed testing ON “Golfer” project.
+•	Testing- Performed Testing on “Catherine” Project.
+
+
 
