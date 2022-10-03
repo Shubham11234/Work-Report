@@ -295,4 +295,11 @@ Work Report – 30th September 2022
 •	Testing- Performed testing on “Golfer” project.
 •	Testing- Performed testing on “Michael Collins” Project.
 
+Work Report – 3rd October 2022
+
+•	Testing- Performed Retesting on “Cathal” project.
+•	Testing- Get All the bugs fixed of Cathal’s Project.
+•	Testing- Performed testing on “Katherine (Boutique)” project.
+•	Testing- Performed testing on “Michael Collins” Project.
+
 
