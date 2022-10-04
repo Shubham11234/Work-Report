@@ -302,4 +302,10 @@ Work Report – 3rd October 2022
 •	Testing- Performed testing on “Katherine (Boutique)” project.
 •	Testing- Performed testing on “Michael Collins” Project.
 
+Work Report – 4th October 2022
+
+•	Wordpress –  Working on a project using elementor and Woocommerce.
+•	Testing- Performed testing on Katherine’s “ Golfer ” project.
+
+
 
