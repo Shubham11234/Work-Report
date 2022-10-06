@@ -305,7 +305,14 @@ Work Report – 3rd October 2022
 Work Report – 4th October 2022
 
 •	Wordpress –  Working on a project using elementor and Woocommerce.
-•	Testing- Performed testing on Katherine’s “ Golfer ” project.
+•	Testing- Performed testing on Katherine’s “ Boatique ” project.
+
+Work Report – 6th October 2022
+
+•	Wordpress –  Working on a project using elementor and Woo Commerce.
+•	Testing- Performed testing on Katherine’s “ Boatique ”project.
+•	Testing- Performed testing on Robert’s “ Ningbo ” project.
+
 
 
 
