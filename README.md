@@ -313,6 +313,11 @@ Work Report – 6th October 2022
 •	Testing- Performed testing on Katherine’s “ Boatique ”project.
 •	Testing- Performed testing on Robert’s “ Ningbo ” project.
 
+Work Report – 7th October 2022
+
+•	Wordpress –  Working on a project using elementor and Woo Commerce.
+•	Testing- Performed testing on “ Manica ”project.
+•	Testing- Performed testing on Robert’s “ Ningbo ” project.
 
 
 
