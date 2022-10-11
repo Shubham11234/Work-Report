@@ -323,4 +323,9 @@ Work Report – 10th October 2022
 
 •	Wordpress –  Working on a project of Wordpress using elementor and Woo Commerce.
 
+Work Report – 11th October 2022
+
+•	Wordpress –  Working on a project using elementor and Woo Commerce.
+•	Testing- Performed testing on “ Michael Collins ”project.
+
 
