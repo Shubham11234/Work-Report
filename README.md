@@ -332,3 +332,8 @@ Work Report – 12th October 2022
 
 •	Wordpress –  Working on a project using elementor and Woo Commerce.
 •	Testing- Performed a functionality testing on “ Manica ”project.
+
+Work Report – 13th October 2022
+
+•	Wordpress –  Completed a Wordpress project using elementor and woo commerce with responsiveness.
+
