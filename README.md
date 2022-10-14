@@ -337,3 +337,8 @@ Work Report – 13th October 2022
 
 •	Wordpress –  Completed a Wordpress project using elementor and woo commerce with responsiveness.
 
+
+Work Report – 14th October 2022
+
+•	Wordpress –  Started Wordpress Template Tags {get_header(),get_footer(),get_sidebar(),get_template_part(),get_search_form(),wp_loginout(),wp_logout_url(),wp_login_ur
+
