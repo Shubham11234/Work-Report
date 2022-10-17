@@ -342,3 +342,8 @@ Work Report – 14th October 2022
 
 •	Wordpress –  Started Wordpress Template Tags {get_header(),get_footer(),get_sidebar(),get_template_part(),get_search_form(),wp_loginout(),wp_logout_url(),wp_login_ur
 
+Work Report – 17th October 2022
+
+•	Wordpress –  Started studying the widgets of elementor pro and started to create a template.
+•	Testing- Performed  functionality testing on “ Manica ”project.
+
