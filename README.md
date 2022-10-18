@@ -347,3 +347,7 @@ Work Report – 17th October 2022
 •	Wordpress –  Started studying the widgets of elementor pro and started to create a template.
 •	Testing- Performed  functionality testing on “ Manica ”project.
 
+Work Report – 18th October 2022
+
+•	Wordpress –  Created the Header Section, Footer Section and Home page of the template.
+•	Testing- Performed testing on “ Manica ”project.
