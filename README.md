@@ -351,3 +351,9 @@ Work Report – 18th October 2022
 
 •	Wordpress –  Created the Header Section, Footer Section and Home page of the template.
 •	Testing- Performed testing on “ Manica ”project.
+
+Work Report – 19th October 2022
+
+•	Testing- Performed testing on “ Manica ”project.
+•	Testing- Performed testing on “ Cathal ”project.
+•	Created 30 pages for “Brian”(Basant’s Project).
