@@ -357,3 +357,10 @@ Work Report – 19th October 2022
 •	Testing- Performed testing on “ Manica ”project.
 •	Testing- Performed testing on “ Cathal ”project.
 •	Created 30 pages for “Brian”(Basant’s Project).
+
+Work Report – 20th October 2022
+
+•	Testing- Performed testing on “ Manica ”project.
+•	Testing- Performed testing on “ Cathal ”project.
+•	Created 60 pages for “Brian”(Basant’s Project).
+
