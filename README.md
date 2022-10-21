@@ -364,3 +364,7 @@ Work Report – 20th October 2022
 •	Testing- Performed testing on “ Cathal ”project.
 •	Created 60 pages for “Brian”(Basant’s Project).
 
+Work Report – 21st October 2022
+
+•	Created 86 pages for “Brian”(Basant’s Project).
+
