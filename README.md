@@ -368,3 +368,11 @@ Work Report – 21st October 2022
 
 •	Created 86 pages for “Brian”(Basant’s Project).
 
+Work-Report of 25th October 2022
+
+•	Created 19 pages of “Brian” project (Basant Sir Project).
+•	Performed testing on Manica Project.
+•	Practiced Widgets of Elementor Pro (Wordpress).
+
+
+
