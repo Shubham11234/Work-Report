@@ -374,5 +374,11 @@ Work-Report of 25th October 2022
 •	Performed testing on Manica Project.
 •	Practiced Widgets of Elementor Pro (Wordpress).
 
+Work-Report of 27th October 2022
+
+•	Performed testing on Manica Project.
+•	Wordpress (Template Tags) – Studied about Wordpress Template Tags  [ wp_login_form(), wp_lostpassword_url(),  wp_register(), wp_meta(), bloginfo(), get_bloginfo(), get_current_blog_id(), wp_title(), single_post_title(), post_type_archive_title() ]
+
+
 
 
