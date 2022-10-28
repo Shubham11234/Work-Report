@@ -379,6 +379,10 @@ Work-Report of 27th October 2022
 •	Performed testing on Manica Project.
 •	Wordpress (Template Tags) – Studied about Wordpress Template Tags  [ wp_login_form(), wp_lostpassword_url(),  wp_register(), wp_meta(), bloginfo(), get_bloginfo(), get_current_blog_id(), wp_title(), single_post_title(), post_type_archive_title() ]
 
+Work-Report of 28th October 2022
 
-
+•	Performed testing on Manica Project.
+•	Performed testing on “Mediterranian” Website.
+•	Wordpress (Template Tags) – Studied about Wordpress Template Tags  [post_type_archive_title(), single_cat_title(), single_tag_title(), single_term_title(), single_month_title()]
+•	Practiced Elementor pro widgets in Wordpress.
 
