@@ -386,3 +386,10 @@ Work-Report of 28th October 2022
 •	Wordpress (Template Tags) – Studied about Wordpress Template Tags  [post_type_archive_title(), single_cat_title(), single_tag_title(), single_term_title(), single_month_title()]
 •	Practiced Elementor pro widgets in Wordpress.
 
+Work-Report of 31st October 2022
+
+•	Performed testing on “Mediterranian direct” Website.
+•	Performed testing on “Achillbikes.com”.
+•	Studied and checked the project of Dr. Ali.
+•	Practiced Elementor pro widgets in Wordpress.
+
