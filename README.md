@@ -393,3 +393,9 @@ Work-Report of 31st October 2022
 •	Studied and checked the project of Dr. Ali.
 •	Practiced Elementor pro widgets in Wordpress.
 
+Work-Report of 1st November 2022
+
+•	Performed testing on “Mediterranian direct” Website.
+•	Performed testing on https://oudessence.store/.
+•	Practiced Elementor pro widgets in Wordpress.
+
