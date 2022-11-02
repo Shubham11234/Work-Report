@@ -399,3 +399,12 @@ Work-Report of 1st November 2022
 •	Performed testing on https://oudessence.store/.
 •	Practiced Elementor pro widgets in Wordpress.
 
+Work-Report 2nd November
+
+•	Performed testing on “https://www.achillbikes.com.tsdtesting2.com/faqs/”.
+•	Performed testing on “Mediterranian direct” Website.
+•	Performed testing on “https://whitelist-oya.web.app/".
+•	Wordpress (Template Tags) – Studied about Wordpress Template Tags  [single_month_title(), single_month_title(),
+get_archives_link(), wp_get_archives(), calendar_week_mod(), get_calendar(), wp_enqueue_script()]
+•	Practiced Elementor pro widgets in Wordpress.
+
