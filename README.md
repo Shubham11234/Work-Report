@@ -408,3 +408,10 @@ Work-Report 2nd November
 get_archives_link(), wp_get_archives(), calendar_week_mod(), get_calendar(), wp_enqueue_script()]
 •	Practiced Elementor pro widgets in Wordpress.
 
+Work-Report 3rd November 2022
+
+•	Performed testing on “https://powerscourtdistillery.com.tsdtesting.com/”.
+•	Performed testing on “Mediterranian direct” Website.
+•	Performed testing on “https://whitelist-oya.web.app/".
+•	Performed testing on “https://moonwiseherbs.com/virtual-wise-woman-ways-herbal-apprenticeship-program/".
+
