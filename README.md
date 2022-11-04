@@ -415,3 +415,11 @@ Work-Report 3rd November 2022
 •	Performed testing on “https://whitelist-oya.web.app/".
 •	Performed testing on “https://moonwiseherbs.com/virtual-wise-woman-ways-herbal-apprenticeship-program/".
 
+Work-Report 4th November 2022
+
+•	Performed testing on “https://man-v2.web.app/”.
+•	Performed retesting on “Mediterranean direct” Website.
+•	Performed testing on “https://www.achillbikes.com.tsdtesting2.com/".
+•	I did R&D on marketplace plugins.
+•	Started a project using marketplace plugin.
+
