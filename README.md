@@ -423,3 +423,12 @@ Work-Report 4th November 2022
 •	I did R&D on marketplace plugins.
 •	Started a project using marketplace plugin.
 
+Work-Report 4th November 2022
+
+•	Performed testing on “https://whitelist-oya.web.app/”.
+•	Performed retesting on “https://powerscourtdistillery.com.tsdtesting.com/test-page/” Website.
+•	Performed testing on “https://www.achillbikes.com.tsdtesting2.com/".
+•	I did R&D on “Bbpress forum” plugin.
+•	Started a project on Forum.
+
+
