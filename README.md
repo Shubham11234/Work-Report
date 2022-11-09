@@ -431,4 +431,11 @@ Work-Report 4th November 2022
 •	I did R&D on “Bbpress forum” plugin.
 •	Started a project on Forum.
 
+Work-Report 9th November 2022
+
+•	Performed retesting on “https://www.achillbikes.com.tsdtesting2.com/".
+•	Get all the bugs fixed of project “https://www.achillbikes.com.tsdtesting2.com/".
+•	Started a project on Forum.
+•	Created Header section and footer section(in progress).
+
 
