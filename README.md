@@ -438,4 +438,9 @@ Work-Report 9th November 2022
 •	Started a project on Forum.
 •	Created Header section and footer section(in progress).
 
+Work-Report 10th November 2022
 
+•	Working a project on Forum.
+•	Created footer section.
+•	Created different pages.
+•	Reviewed the project requirement of client “Jade”.
