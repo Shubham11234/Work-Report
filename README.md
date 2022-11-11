@@ -444,3 +444,10 @@ Work-Report 10th November 2022
 •	Created footer section.
 •	Created different pages.
 •	Reviewed the project requirement of client “Jade”.
+
+Work-Report 11th November 2022
+
+•	Performed retesting on “https://man-v2.web.app/".
+•	Get all the bugs fixed of project “https://man-v2.web.app/".
+•	Created page of current project (On Forum).
+•	Created sections of home page.
