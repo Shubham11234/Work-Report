@@ -451,3 +451,10 @@ Work-Report 11th November 2022
 •	Get all the bugs fixed of project “https://man-v2.web.app/".
 •	Created page of current project (On Forum).
 •	Created sections of home page.
+
+Work-Report 14th November 2022
+
+1.	Theme installation and set up of “Jade’s” project.
+2.	Studied the documentation of theme.
+3.	Testing of dr.Ali’s project on desktop and tablet.
+
