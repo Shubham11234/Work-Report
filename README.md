@@ -464,5 +464,6 @@ Today I have done the following points –
 2.Footer Section Created of Jade’s Project.
 3. All the required page created.
 4.Contact page details updated.
+5. Third Party Booking Acuity Scheduling (In Progress).
 
 
