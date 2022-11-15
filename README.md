@@ -458,3 +458,11 @@ Work-Report 14th November 2022
 2.	Studied the documentation of theme.
 3.	Testing of dr.Ali’s project on desktop and tablet.
 
+Today I have done the following points – 
+
+1.Header Section Created of Jade’s Project.
+2.Footer Section Created of Jade’s Project.
+3. All the required page created.
+4.Contact page details updated.
+
+
