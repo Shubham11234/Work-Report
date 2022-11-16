@@ -470,4 +470,4 @@ Work-Report Of 16th November 2022
 
 1.	Overviewed and did R&D on unison page builder.
 2.	Created a page “Aesthetics” on “Jade’s” Project.
-
+3.	Studied about the requirement of project.
