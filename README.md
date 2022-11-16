@@ -466,4 +466,8 @@ Today I have done the following points –
 4.Contact page details updated.
 5. Third Party Booking Acuity Scheduling (In Progress).
 
+Work-Report Of 16th November 2022
+
+1.	Overviewed and did R&D on unison page builder.
+2.	Created a page “Aesthetics” on “Jade’s” Project.
 
