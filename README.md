@@ -474,7 +474,7 @@ Work-Report Of 16th November 2022
 
 Work-Report of 17th November 2022
 
-•	Third Party Booking Acuity Scheduling (In Progress).
+•	At booking page completed the integration Third Party Booking Acuity Scheduling .
 •	Completed “Aesthetics” page.
 •	Completed “Laser hair Removal” page.
 •	Completed “Blog” page. 
