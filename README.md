@@ -478,3 +478,10 @@ Work-Report of 17th November 2022
 •	Completed “Aesthetics” page.
 •	Completed “Laser hair Removal” page.
 •	Completed “Blog” page. 
+
+Work-Report  18th November 2022
+
+•	Performed testing on “ https://man-v2.web.app/".
+•	Performed testing on “https://spoon-ful.com/".
+•	Performed testing on “https://www.dingledarkroom.com/".
+
