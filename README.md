@@ -484,4 +484,4 @@ Work-Report  18th November 2022
 •	Performed testing on “ https://man-v2.web.app/".
 •	Performed testing on “https://spoon-ful.com/".
 •	Performed testing on “https://www.dingledarkroom.com/".
-
+•	Studied about the page builder “Unyson”.
