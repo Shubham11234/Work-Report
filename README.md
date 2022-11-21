@@ -485,3 +485,10 @@ Work-Report  18th November 2022
 •	Performed testing on “https://spoon-ful.com/".
 •	Performed testing on “https://www.dingledarkroom.com/".
 •	Studied about the page builder “Unyson”.
+
+Work-Report  21st November 2022
+
+•	I have fixed the image for product Na'Meg in Dr. Ali’s Project.
+•	I have updated the description for the given products Dr. Ali’s Project.
+•	Performed testing on https://man-v2.web.app/.
+
