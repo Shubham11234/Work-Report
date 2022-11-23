@@ -492,3 +492,17 @@ Work-Report  21st November 2022
 •	I have updated the description for the given products Dr. Ali’s Project.
 •	Performed testing on https://man-v2.web.app/.
 
+Work-Report  22nd November 2022
+
+•	Rearrange the menu bar according to requirements.
+•	Created all the required pages.
+•	Completed Laser Hair Removal Page.
+•	IPL Skin Treatment Page(In Progress)
+
+Work-Report  23rd November 2022
+•	Completed “IPL Skin Treatment” Page.
+•	Completed “Beauty Treatments” Page.
+•	Completed “Massage” Page.
+•	“Tattoo Removal” Page in progress.
+•	Did changes in the “Laser hair removal” page as asked by client.
+
