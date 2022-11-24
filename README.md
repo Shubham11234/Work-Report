@@ -506,3 +506,9 @@ Work-Report  23rd November 2022
 •	“Tattoo Removal” Page in progress.
 •	Did changes in the “Laser hair removal” page as asked by client.
 
+Today I have done following below points :
+
+•	Created Aesthetics page (In progress) Jade’s project.
+•	Linked the treatments whose links are newly added “Jade’s Project”.
+•	I have updated the description for the given products.
+•	I have created a new category "Agarwood chips malaysia" and added the product "AGARWOOD HIGH QUALITY MALAYSIA TRIPLE SUPER".
