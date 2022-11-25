@@ -500,15 +500,23 @@ Work-Report  22nd November 2022
 •	IPL Skin Treatment Page(In Progress)
 
 Work-Report  23rd November 2022
+
 •	Completed “IPL Skin Treatment” Page.
 •	Completed “Beauty Treatments” Page.
 •	Completed “Massage” Page.
 •	“Tattoo Removal” Page in progress.
 •	Did changes in the “Laser hair removal” page as asked by client.
 
-Today I have done following below points :
+Work-Report  24th November 2022
 
 •	Created Aesthetics page (In progress) Jade’s project.
 •	Linked the treatments whose links are newly added “Jade’s Project”.
 •	I have updated the description for the given products.
 •	I have created a new category "Agarwood chips malaysia" and added the product "AGARWOOD HIGH QUALITY MALAYSIA TRIPLE SUPER".
+
+Work-Report  25th November 2022
+
+•	Completed Tattoo Removal Page.
+•	Completed Aesthetic page.
+•	Fixed Image on the pages(In Progress).
+
