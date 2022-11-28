@@ -520,3 +520,8 @@ Work-Report  25th November 2022
 •	Completed Aesthetic page.
 •	Fixed Image on the pages(In Progress).
 
+Work-Report 28th November 2022
+
+•	Fixed Image Sizes on the pages.(Completed).
+•	Tested the website on mobile view.
+•	Fixing the image alignment and spacing issues (In progress).
