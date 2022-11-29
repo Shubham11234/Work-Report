@@ -525,3 +525,10 @@ Work-Report 28th November 2022
 •	Fixed Image Sizes on the pages.(Completed).
 •	Tested the website on mobile view.
 •	Fixing the image alignment and spacing issues (In progress).
+
+Work-Report 29th November 2022
+
+•	 Fixed the image alignment and spacing issues (Done). (Jade Project)
+•	 Make changes on shipping charges on vendors WeltonLondon , SunnyLife , The Luxury Art Mepra at (Boatique website)
+•	Performed testing on Manica Website.
+
