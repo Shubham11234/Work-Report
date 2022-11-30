@@ -532,3 +532,8 @@ Work-Report 29th November 2022
 •	 Make changes on shipping charges on vendors WeltonLondon , SunnyLife , The Luxury Art Mepra at (Boatique website)
 •	Performed testing on Manica Website.
 
+Work-Report 30th November 2022
+
+•	Fixed "Banner width" for all brands on desktop view.
+•	Tested Shipping for Welton London – Done
+•	Performed testing on Manica Project and get all the bugs fixed.
