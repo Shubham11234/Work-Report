@@ -537,3 +537,8 @@ Work-Report 30th November 2022
 •	Fixed "Banner width" for all brands on desktop view.
 •	Tested Shipping for Welton London – Done
 •	Performed testing on Manica Project and get all the bugs fixed.
+
+Work-Report 1st December 2022
+
+•	Fixed "Banner width" for all brands on desktop view(Urban Experience).
+•	Fixed “Image size” of products (Urban Experience).
