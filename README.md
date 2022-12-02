@@ -542,3 +542,11 @@ Work-Report 1st December 2022
 
 •	Fixed "Banner width" for all brands on desktop view(Urban Experience).
 •	Fixed “Image size” of products (Urban Experience).
+
+Work-Report 2nd December 2022
+
+1) Tested shipping for The Luxury Art Mepra - Done
+2) Fixed "Image Size" of products (boatique.co) - In Progress
+3) Integration of facebook shop - In Progress
+4) Did R&D on Integration of facebook shop.
+
